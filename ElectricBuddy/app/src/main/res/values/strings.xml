@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">ElectricBuddy</string>
     <string name="link_to_code">
-        <a href="http://www.google.com">Click here! to check out my code</a>
+        <a href="https://github.com/vishakha-30/ElectricBuddy/tree/main/ElectricBuddy">Click here! to check out our code</a>
     </string>
 </resources>
